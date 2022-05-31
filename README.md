@@ -1,2 +1,2 @@
-# Acitivity
+# Activity
 calculator 
